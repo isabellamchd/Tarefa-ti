@@ -1,6 +1,7 @@
 # Sistemas operacionais
 ### Os sistemas operacionais são softwares importantes que conduzem o hardware de um computador, que fornecem uma interface que faz os funcionários interajam com o sistema, permitindo programas sejam executados de maneira eficiente.
 
+![computador](https://infopedagogica.com.br/wp-content/uploads/2022/03/Guia-completo-sobre-Tecnologia-da-Informacao_infopedagogica.jpg)
 
 ## Sistemas operacionais: Windowns 
 #### O sistema operacional do Windowns desempenha um papel importante na computação moderna, que oferece uma plataforma grande, segura e rica em utilidades para usuários domésticos, empresas e desenvolvedores.
