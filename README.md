@@ -42,12 +42,12 @@ __netstat-an__ lista conecções da rede e portas e uso
 
 #### Curiosidades sobre o Windows:
 
-O nome "Windows" vem das "janelas" na interface gráfica
+1. O nome "Windows" vem das "janelas" na interface gráfica
 
-O "Ctrl+Alt+Del" foi projetado por acidente
+2. O "Ctrl+Alt+Del" foi projetado por acidente
 
-Windows foi o primeiro a popularizar a interface gráfica com multitarefa
+3. Windows foi o primeiro a popularizar a interface gráfica com multitarefa
 
-Aproximadamente 78% das pessoas no mundo usam o Windows
+4. Aproximadamente 78% das pessoas no mundo usam o Windows
 
-O Android passou o Windows quando os smartphones se popularizaram.
+5. O Android passou o Windows quando os smartphones se popularizaram.
