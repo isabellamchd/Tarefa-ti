@@ -51,3 +51,8 @@ __netstat-an__ lista conecções da rede e portas e uso
 4. Aproximadamente 78% das pessoas no mundo usam o Windows
 
 5. O Android passou o Windows quando os smartphones se popularizaram.
+
+
+## Conclusão:
+
+ Windows continua sendo uma solução robusta e confiável para uma ampla gama de usuários, com sua evolução constante, foco em compatibilidade e recursos adaptados às novas tendências de tecnologia. 
