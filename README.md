@@ -20,3 +20,12 @@ Windows 11 (2021) – Design renovado, maior integração com a nuvem, suporte a
 Windows Vista (2007) – Interface visual aprimorada, segurança reforçada, mas com desempenho criticado.
 
 Windows 3.0 (1990) – Interface gráfica mais avançada, que ajudou a popularizar o uso do Windows, especialmente em PCs domésticos.
+
+
+
+A arquitetura do Windows é composta por várias camadas interligadas, começando pelas aplicações do usuário, passando por subsistemas e o núcleo que gerencia os recursos do sistema, até os drivers e a camada de abstração de hardware, garantindo que o sistema operacional funcione eficientemente em diferentes plataformas e dispositivos.
+O Windows oferece uma interface gráfica baseada em janelas, ícones e menus, facilitando a interação do usuário com o sistema. Esta camada é gerenciada pelo *Windows Shell*, que inclui o Explorer, o Menu Iniciar, a Barra de Tarefas e outros componentes visuais.
+
+![computador](https://doity.com.br/blog/app/uploads/2022/05/Quer-fazer-um-curso-de-organizacao-de-eventos-Conheca-os-melhores-930x534.png)
+
+
